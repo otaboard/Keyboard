@@ -3036,8 +3036,11 @@
     (path "/c909a1a6-b6f2-4338-8311-f20e8d2aeeee"
       (reference "C?") (unit 1) (value "0.1u") (footprint "")
     )
+    (path "/c5d81d57-8916-4e7f-9cc3-b319fec74392/1946d543-a1f8-41d3-bbd2-336b3f685350"
+      (reference "D?") (unit 1) (value "1N4148") (footprint "")
+    )
     (path "/c5d81d57-8916-4e7f-9cc3-b319fec74392/6d39889c-9e2f-442a-a8e6-b65863b08f69"
-      (reference "D01") (unit 1) (value "1N4148") (footprint "")
+      (reference "D?") (unit 1) (value "1N4148") (footprint "")
     )
     (path "/8545084e-b220-45d1-80e6-3744a0b67635"
       (reference "F1") (unit 1) (value "500mA") (footprint "")
@@ -3073,7 +3076,10 @@
       (reference "R4") (unit 1) (value "10K") (footprint "")
     )
     (path "/c5d81d57-8916-4e7f-9cc3-b319fec74392/0bbc6e45-febf-45ff-a858-5bf31f0a0486"
-      (reference "S01") (unit 1) (value "MX1A") (footprint "")
+      (reference "S?") (unit 1) (value "MX1A") (footprint "")
+    )
+    (path "/c5d81d57-8916-4e7f-9cc3-b319fec74392/92d9c1c8-de76-4d24-99cb-0a6c6ce99dd9"
+      (reference "S?") (unit 1) (value "MX1A") (footprint "")
     )
     (path "/6a7d6a80-4460-4050-abc5-328a82645129"
       (reference "SW1") (unit 1) (value "SW_PUSH") (footprint "")
