@@ -2,4 +2,6 @@
   (lib (name "keyboard_parts")(type "Legacy")(uri "/home/miguel/Documents/Kicad/Libs/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
   (lib (name "atmega32u4")(type "Legacy")(uri "/home/miguel/Documents/Kicad/gh60/lib/atmega32u4.lib")(options "")(descr ""))
   (lib (name "conn")(type "Legacy")(uri "/home/miguel/Documents/Kicad/gh60/lib/conn.lib")(options "")(descr ""))
+  (lib (name "mx1a-simple")(type "Legacy")(uri "/home/miguel/Documents/Kicad/gh60/lib/mx1a-simple.lib")(options "")(descr ""))
+  (lib (name "device")(type "Legacy")(uri "/home/miguel/Documents/Kicad/gh60/lib/device.lib")(options "")(descr ""))
 )
