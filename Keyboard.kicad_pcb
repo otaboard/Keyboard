@@ -6602,7 +6602,7 @@
 
   (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering" (layer "B.Cu")
     (tedit 5C42C6AC) (tstamp ea00bd16-e373-47fe-ac13-aad8d3ffbf50)
-    (at 223.8375 54.1525)
+    (at 224.2058 53.962)
     (property "Sheetfile" "Keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/226f4567-5b6a-4300-abea-926cddef3fab")
@@ -6611,7 +6611,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 30f7d7e3-aa41-4016-8596-fb05741412e8)
     )
-    (fp_text value "HRO-TYPE-C-31-M-12" (at 0 -1.15) (layer "Dwgs.User")
+    (fp_text value "HRO-TYPE-C-31-M-12" (at 0 -1.15) (layer "Dwgs.User") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3253e69b-9363-44fe-b008-b3a465888a33)
     )
@@ -6906,8 +6906,19 @@
     )
   )
 
+  (gr_line (start 230.6828 59.5122) (end 355.6 59.53125) (layer "Edge.Cuts") (width 0.1) (tstamp 1a163ccb-7663-4d58-b907-c610e3ce5908))
+  (gr_arc (start 71.4375 61.11875) (mid 71.902468 59.996218) (end 73.025 59.53125) (layer "Edge.Cuts") (width 0.1) (tstamp 3b795257-513d-4a4f-8c87-bb551abc3fb7))
   (gr_arc (start 357.1875 153.19375) (mid 356.722532 154.316282) (end 355.6 154.78125) (layer "Edge.Cuts") (width 0.1) (tstamp 3eecf231-ea8c-4401-af73-c3db3dbea503))
+  (gr_line (start 357.1875 61.11875) (end 357.1875 153.19375) (layer "Edge.Cuts") (width 0.1) (tstamp 4ad2c481-38fb-455e-9c81-02c493cea7a5))
+  (gr_line (start 218.44 55.118) (end 229.87 55.118) (layer "Edge.Cuts") (width 0.1) (tstamp 57b0f092-bb54-4d94-8962-bd1e80c38ea0))
+  (gr_arc (start 230.66375 59.51855) (mid 230.102484 59.286066) (end 229.87 58.7248) (layer "Edge.Cuts") (width 0.1) (tstamp 67811a68-c47d-4258-8a15-de22542d235b))
+  (gr_line (start 229.87 55.118) (end 229.87 58.7248) (layer "Edge.Cuts") (width 0.1) (tstamp 7a0887c6-a364-4906-be44-5ed511fd9956))
   (gr_arc (start 73.025 154.78125) (mid 71.902468 154.316282) (end 71.4375 153.19375) (layer "Edge.Cuts") (width 0.1) (tstamp 93ef2411-2156-4cb1-98a0-4831b0df6bdb))
+  (gr_arc (start 218.44 58.7375) (mid 218.207516 59.298766) (end 217.64625 59.53125) (layer "Edge.Cuts") (width 0.1) (tstamp 9782ed27-f1d2-43f8-995f-e8b5374ea741))
+  (gr_line (start 71.4375 61.11875) (end 71.4375 153.19375) (layer "Edge.Cuts") (width 0.1) (tstamp a01c81dc-72ea-4b9c-865e-e88581fe32b3))
+  (gr_line (start 73.025 154.78125) (end 355.6 154.78125) (layer "Edge.Cuts") (width 0.1) (tstamp b2f9ee87-df90-46ec-873b-880cb87b3115))
   (gr_arc (start 355.6 59.53125) (mid 356.722532 59.996218) (end 357.1875 61.11875) (layer "Edge.Cuts") (width 0.1) (tstamp d80283e1-06fd-4c31-b18a-78d68ccff471))
+  (gr_line (start 217.64625 59.53125) (end 73.025 59.53125) (layer "Edge.Cuts") (width 0.1) (tstamp d9dc2844-ccc1-4f55-825f-75838266b99d))
+  (gr_line (start 218.44 58.7375) (end 218.44 55.118) (layer "Edge.Cuts") (width 0.1) (tstamp e953c1ca-d1a4-43ca-80a8-49d71e486abe))
 
 )
