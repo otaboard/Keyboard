@@ -56,8 +56,8 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|221280800|63382000|89323dbc-a7e0-43b6-8945-298fd3e1d6a2|0ee26682-fe95-4e66-8ffe-014b9aae5a37",
-        "clearance|226955800|63382000|e7673300-aa64-4fcf-969a-8dc3434364f5|65d54fd3-2c75-4d1a-b68f-aad1dfb151db"
+        "clearance|221455800|63382000|ce669759-fd36-4ac9-b39b-07af1ed7df4f|c5401c16-61dd-44a1-8bfc-72c65928140f",
+        "clearance|226955800|63382000|6efeb203-4320-444f-9171-eab5527cf4a1|dd946628-b031-4afd-a1b9-344aa12d8977"
       ],
       "meta": {
         "version": 2
